@@ -1,0 +1,9 @@
+__pycache__/
+venv/
+*.log
+*.swp
+.env
+data.db
+data_copy.db
+.idea/
+*.tar.gz
